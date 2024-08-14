@@ -1,0 +1,32 @@
+{
+  "storeys": {
+    "3Oyy6znGfDuxU1yeaCAwHe": {
+      "global_id": "3Oyy6znGfDuxU1yeaCAwHe",
+      "name": "0-Ground floor",
+      "spaces_ids": [
+        "1F0C2tqCLFbfijKhkMkIdx"
+      ]
+    },
+    "2CoSFmmOPBhOOXH7PDe3YR": {
+      "global_id": "2CoSFmmOPBhOOXH7PDe3YR",
+      "name": "1-First floor",
+      "spaces_ids": []
+    },
+    "0EtCoU9KT6bxaxTcvKjuLC": {
+      "global_id": "0EtCoU9KT6bxaxTcvKjuLC",
+      "name": "2-Second floor",
+      "spaces_ids": []
+    },
+    "2pAkeOGcrCcPI4s9JGeq1B": {
+      "global_id": "2pAkeOGcrCcPI4s9JGeq1B",
+      "name": "3-Roof",
+      "spaces_ids": []
+    }
+  },
+  "spaces": {
+    "1F0C2tqCLFbfijKhkMkIdx": {
+      "global_id": "1F0C2tqCLFbfijKhkMkIdx",
+      "name": "Office 01"
+    }
+  }
+}
